@@ -12,6 +12,14 @@ I'm Ian! Here are some things I've been working on:
 * 🧪 Experimenting with Web NFC https://www.ianmccall.codes/web-nfc-experiments/
 * 🎓 Learning Chinese https://www.duolingo.com/profile/IanMCodes
 
+Latest Blog posts:
+ * [Learning Rust and WebAssembly](https://www.ianmccall.codes/2020/06/28/bigger-than-a-breadbox-learning-rust-and-webassembly.html)
+ * [4.2 Stars with CSS and SVG](https://www.ianmccall.codes/2020/05/07/42-stars-with-css-and-svg.html)
+ * [SoFi Vs. Wealthfront](https://www.ianmccall.codes/2019/08/12/sofi-vs-wealthfront.html)
+ * [Sit/Stand Tool](https://www.ianmccall.codes/2018/06/22/sitstand-tool.html)
+ * [Getting Google Home to Read My Work Calendar (Sort of)](https://www.ianmccall.codes/2018/02/20/getting-google-home-to-read-my-work-calendar-sort-of.html)
+
+
 <!--
 **ianmcodes/ianmcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
