@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Ftwitter.com%2Fianmccallcodes)
-![LinkedIn URL](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fianmccallcodes%2F)
+<a href="https://twitter.com/ianmccallcodes"><img src="https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Ftwitter.com%2Fianmccallcodes" alt="Twitter URL" /></a>
+<a href="https://www.linkedin.com/in/ianmccallcodes/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn URL" /></a>
 
 I'm Ian! Here are some things I've been working on:
 
