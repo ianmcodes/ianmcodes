@@ -15,11 +15,11 @@ I'm Ian! Here are some things I've been working on:
 If you want to contact me, DM me on [Twitter](https://twitter.com/ianmccallcodes) or connect with me on [LinkedIn](https://www.linkedin.com/in/ianmccallcodes/). Just please mention why you are reaching out, thanks!
 
 Latest Blog posts:
- * [WebAssembly Three Ways](https://www.ianmccall.codes/2020/10/11/webassembly-three-ways.html)
- * [My GitHub Profile README Walkthrough](https://www.ianmccall.codes/2020/07/22/my-github-profile-readme-walkthrough.html)
- * [[Product Review] Hydration packs](https://www.ianmccall.codes/review/2020/07/17/product-review-hydration-packs.html)
- * [Learning Rust and WebAssembly](https://www.ianmccall.codes/2020/06/28/bigger-than-a-breadbox-learning-rust-and-webassembly.html)
- * [4.2 Stars with CSS and SVG](https://www.ianmccall.codes/2020/05/07/42-stars-with-css-and-svg.html)
+ * [WebAssembly Three Ways](https://www.ianmccall.codes/post/2020/10/11/webassembly-three-ways.html)
+ * [My GitHub Profile README Walkthrough](https://www.ianmccall.codes/post/2020/07/22/my-github-profile-readme-walkthrough.html)
+ * [[Product Review] Hydration packs](https://www.ianmccall.codes/review/post/2020/07/17/product-review-hydration-packs.html)
+ * [Learning Rust and WebAssembly](https://www.ianmccall.codes/post/2020/06/28/bigger-than-a-breadbox-learning-rust-and-webassembly.html)
+ * [4.2 Stars with CSS and SVG](https://www.ianmccall.codes/post/2020/05/07/42-stars-with-css-and-svg.html)
 
 
 <!--
