@@ -1,8 +1,8 @@
-const Handlebars = require('handlebars');
-const fetch = require('node-fetch');
-const xml2js = require('xml2js');
-const fs = require('fs').promises;
-const { program } = require('commander');
+import Handlebars from 'handlebars';
+import fetch from 'node-fetch';
+import xml2js from 'xml2js';
+import { promises as fs } from 'fs';
+import { program } from 'commander';
 
 program
   .option('-t, --template <file>', 'path to template file')
