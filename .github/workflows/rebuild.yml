@@ -17,13 +17,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2-beta
+        uses: actions/setup-node@v3
         with:
           # Version Spec of the version to use.  Examples: 12.x, 10.15.1, >=10.15.0
-          node-version: '12'
+          node-version: '16'
       - name: NPM Install
         run: npm i
       - name: Build
