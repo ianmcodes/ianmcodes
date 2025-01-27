@@ -27,7 +27,7 @@ I'm Ian! Here are some things I've been working on:
 ---
 ## Contact me
 
-If you want to contact me, DM me on [Twitter](https://twitter.com/ianmccallcodes) or connect with me on [LinkedIn](https://www.linkedin.com/in/ianmccallcodes/). Just please mention why you are reaching out, thanks!
+If you want to contact me, DM me on ~~[Twitter](https://twitter.com/ianmccallcodes)~~ [Bluesky](https://bsky.app/profile/ianmcodes.bsky.social) or connect with me on [LinkedIn](https://www.linkedin.com/in/ianmccallcodes/). Just please mention why you are reaching out, thanks!
 
 ---
 ## Latest Blog posts:
