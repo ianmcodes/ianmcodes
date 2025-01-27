@@ -4,7 +4,7 @@ import xml2js from 'xml2js';
 import { promises as fs } from 'fs';
 import { program } from 'commander';
 
-program
+const options = program
   .option('-t, --template <file>', 'path to template file')
   .option('-f, --feed <URL>', 'URL of blog feed')
   .option('-o, --output <file>', 'File to write output to')
@@ -33,12 +33,12 @@ Handlebars.registerHelper('for', (context, options) => {
 })
 
 // read in template
-waitFor.push(fs.readFile(program.template)
+waitFor.push(fs.readFile(options.template)
 .then((data) => {
   return Handlebars.compile(data.toString());
 }));
 // read in feed
-waitFor.push(fetch(program.feed)
+waitFor.push(fetch(options.feed)
 .then((res) => {
   return res.text();
 })
@@ -56,7 +56,7 @@ Promise.all(waitFor)
   // write out README
   const result = template(feed)
   console.log(result);
-  if(program.output) {
-    return fs.writeFile(program.output, result);
+  if(options.output) {
+    return fs.writeFile(options.output, result);
   }
 });
