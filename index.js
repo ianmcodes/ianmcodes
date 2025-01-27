@@ -8,7 +8,8 @@ program
   .option('-t, --template <file>', 'path to template file')
   .option('-f, --feed <URL>', 'URL of blog feed')
   .option('-o, --output <file>', 'File to write output to')
-  .parse(process.argv);
+  .parse()
+  .opts();
 
 const parser = new xml2js.Parser({
   attrkey: '_attr',
