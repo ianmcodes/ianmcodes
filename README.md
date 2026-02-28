@@ -1,4 +1,4 @@
-![Banner](https://www.ianmccall.codes/assets/images/banner.jpg)
+![Banner](https://www.ianmccall.codes/assets/images/banner_2026.png)
 
 # Hi there 👋
 
@@ -8,6 +8,7 @@
 ---
 I'm Ian! Here are some things I've been working on:
 
+* 🎓 Learning about and using AI 🤖
 * 🎓 Learning more about WebAssembly
   * I'm working on a comparison of some languages that compile to WebAssembly
 * 🧪 Experimenting with Web NFC https://www.ianmccall.codes/web-nfc-experiments/
