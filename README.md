@@ -32,11 +32,11 @@ If you want to contact me, DM me on ~~[Twitter](https://twitter.com/ianmccallcod
 
 ---
 ## Latest Blog posts:
+ * [Crustacean Migration: Moving OpenClaw from Desktop to Home Lab](https://www.ianmccall.codes/post/2026/03/24/crustacean-migration-moving-open-claw-from-desktop-to-home-lab.html)
  * [Using ChatGPT to Improve My Personal Brand](https://www.ianmccall.codes/post/2026/03/11/using-chatgpt-to-improve-my-personal-brand.html)
  * [Converting VHS to Digital](https://www.ianmccall.codes/post/2020/11/20/converting-vhs-to-digital.html)
  * [WebAssembly Three Ways](https://www.ianmccall.codes/post/2020/10/11/webassembly-three-ways.html)
  * [My GitHub Profile README Walkthrough](https://www.ianmccall.codes/post/2020/07/22/my-github-profile-readme-walkthrough.html)
- * [[Product Review] Hydration packs](https://www.ianmccall.codes/review/post/2020/07/17/product-review-hydration-packs.html)
 
 
 <!--
